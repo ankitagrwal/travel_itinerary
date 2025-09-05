@@ -1,5 +1,4 @@
-# Travel Itinerary Generator with Bolt and Supabase
-
+# Travel Itinerary 
 This project helps you generate travel itineraries using [Bolt](https://bolt-js.netlify.app/) and [Supabase](https://supabase.com/). It provides a modern, collaborative way to plan trips, leveraging real-time data storage and retrieval.
 
 ## Features
